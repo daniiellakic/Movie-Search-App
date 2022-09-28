@@ -1,7 +1,7 @@
 import './App.css';
 import React from 'react';
-import SearchMovies from "./searchMovies";
-import Header from "./header";
+import SearchMovies from "./components/searchMovies";
+import Header from "./components/header";
 
 
 function App() {
